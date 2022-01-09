@@ -1,4 +1,4 @@
-### upper bound와 lower bound
+### upper bound & lower bound
 ***
 
 이진탐색(Binary Search)기반의 탐색 방법입니다. 배열 또는 리스트가 정렬 되어있어야 한다.
