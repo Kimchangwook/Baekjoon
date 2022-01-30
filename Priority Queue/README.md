@@ -39,7 +39,7 @@ void push (Heap* h, int data) {
    
    int index = ++(h->size); 
    
-   while (index != 1 && h->max_heap[index] > h->max_heap[index / 2]) {
+   while (index != 1 && data > h->max_heap[index / 2]) {
       h->max_heap[index] = h->max_heap[index / 2];
       index /= 2;
    }
