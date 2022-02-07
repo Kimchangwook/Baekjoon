@@ -18,7 +18,7 @@ void dfs(int v, int pre, int* prev, int* visited, int n, int m) {
 
 	if (pre == m) {
 		for (i = 1; i <= m; i++) {
-				printf("%d ", prev[i]);
+			printf("%d ", prev[i]);
 		}
 		printf("\n");
 	}
