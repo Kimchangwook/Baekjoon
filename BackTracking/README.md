@@ -15,10 +15,12 @@ DFS의 비효율적인 경로를 차단하고 목표지점에 갈 수 있는 가
 백트래킹은 __가지치기__ (Purning)을 통해 효율을 극대화한다.   
 가능성이 없는 루트를 가지치기로 쳐내서 탐색하는 기법이다.   
 
-
-
-
-
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 [출처](mmindoong.log, velog, https://velog.io/@mmindoong/알고리즘-백트래킹BackTracking)
