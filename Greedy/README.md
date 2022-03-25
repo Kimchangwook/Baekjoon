@@ -30,3 +30,6 @@
 
 
 
+
+
+[출처](그리디 알고리즘, 나무위키,https://namu.wiki/w/%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
